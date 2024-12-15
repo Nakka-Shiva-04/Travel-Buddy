@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.travelbuddyMainEntity.UserEntity"/>
+    <fullyQualifiedTypeName name="com.travelbuddyMainRepo.UserRepo"/>
+    <fullyQualifiedTypeName name="com.travelbuddyMainServices.UserServices"/>
+    <fullyQualifiedTypeName name="com.travelbuddy.Repo.TravelBuddyRepo"/>
+    <fullyQualifiedTypeName name="com.travelbuddy.Repo.UserApplicationRepo"/>
+    <fullyQualifiedTypeName name="com.travelbuddy.Repo.UserRequestRepo"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="com.travelbuddy.Repo.TourGuideDetailsRepo"/>
+    <fullyQualifiedTypeName name="com.travelbuddy.Repo.CarDetailsRepo"/>
+    <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+    <fullyQualifiedTypeName name="com.travelbuddy.Entity.Admin"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>
